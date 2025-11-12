@@ -1,4 +1,4 @@
-# 💰 Sistema de Controle de Despesas — Versão 0.0.1
+# 💰 Sistema de Controle de Despesas — Versão 0.0.2
 
 ## 🧾 Descrição Geral
 
@@ -16,7 +16,7 @@ A construção do sistema será feita em **três etapas**, com commits versionad
 - Criação do diretório `/docs` e deste arquivo `README.md`.  
 - Registro do primeiro **changelog**.
 
-## ⚙️ Funcionalidades do Menu (versão 0.0.1)
+## ⚙️ Funcionalidades do Menu (versão 0.0.1) - CHANGELOG
 
 - [1] Entrar Despesa  
 - [2] Anotar Pagamento  
@@ -26,6 +26,9 @@ A construção do sistema será feita em **três etapas**, com commits versionad
 >Nesta versão, todas as opções exibem mensagens simuladas no console (`println`).
 
 ---
+
+## ⚙️ Adicionado eventos (versão 0.0.2) - CHANGELOG
+Esta segunda entrega (v0.0.2) estabelece uma base de POO muito sólida. O App.java agora está limpo, e as responsabilidades estão bem distribuídas entre as camadas de Modelo e Serviço. (ainda n funcional)
 
 ## Estrutura Inicial do Projeto
 
