@@ -1,0 +1,6 @@
+1;Alimentação
+2;Transporte
+3;Moradia
+4;Lazer
+5;Eventual
+6;Supérfluo
